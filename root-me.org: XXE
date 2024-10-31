@@ -4,5 +4,5 @@
 ]>
 <updateProfile>
 <firstname>Joe</firstname>
-<lastname&file;</lastname>
+<lastname>&file;</lastname>
 </updateProfile>
