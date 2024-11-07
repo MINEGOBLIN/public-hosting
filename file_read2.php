@@ -1,1 +1,1 @@
-<?php fopen('index.php'); ?>
+<?php fopen('index.php', 'r'); ?>
