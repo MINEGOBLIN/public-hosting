@@ -1,4 +1,3 @@
 <?php 
-$file = file_get_contents('index.php');
-echo $file;
+highlight_file('index.php');
 ?>
